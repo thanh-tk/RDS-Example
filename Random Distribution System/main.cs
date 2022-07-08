@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Random_Distribution_System
 {
-    internal class main
+    public class Main
     {
-
+        //TEST GIT USER
     }
 }
